@@ -1,0 +1,23 @@
+
+.main_page {
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.buttons_container {
+    height: 30%;
+    width: 40%;
+    min-width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.link_main {
+    width: 100%;
+}

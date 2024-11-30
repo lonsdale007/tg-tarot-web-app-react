@@ -1,0 +1,31 @@
+
+.horoscopes_container {
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-size: 1rem;
+    gap: 25px;
+}
+
+.horoscopes_row {
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+}
+
+.horoscope_icon {
+    width: 100%;
+}
+
+.link {
+    width: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    gap: 5px;
+}
